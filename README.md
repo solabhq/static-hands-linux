@@ -2,8 +2,6 @@
 
 CapsLock navigation layer for Linux - Keep hands on home row. Available in Basic and Advanced editions.
 
-**Port by [SoLab HQ](https://youtube.com/@solabhq)**
-
 ---
 
 ## 📺 Video Tutorial
@@ -207,7 +205,6 @@ Each edition has detailed docs:
 ## Credits & License
 
 **Based on:** [Static Hands](https://github.com/almogtavor/static-hands) by Almog Tavor  
-**Ported to Linux by:** [SoLab HQ](https://youtube.com/@solabhq)
 
 MIT License
 
