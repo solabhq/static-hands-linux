@@ -112,7 +112,7 @@ Then **log out and log back in** (or reboot).
 | `Caps + R` | Rename (F2) |
 | `Caps + T` | Select line |
 | `Caps + 7` | Tab |
-| `Caps + \`` | Close window |
+| `Caps + Backstick` | Close window |
 | `Caps + F7` | Enter |
 
 ---
