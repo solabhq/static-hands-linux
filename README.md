@@ -53,7 +53,7 @@ Then **log out and log back in** (or reboot).
 
 **Keep the keyboard layout always visible on your desktop!**
 
-[Download HD Wallpaper Pack](https://ko-fi.com/s/d626933c7d)
+[Download 4k Wallpaper Pack](https://ko-fi.com/s/d626933c7d)
 
 ---
 
