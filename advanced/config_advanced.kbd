@@ -1,0 +1,68 @@
+;; ===================================================================
+;; STATIC HANDS - ADVANCED CONFIGURATION FOR KANATA
+;; Advanced v1.0
+;; ===================================================================
+
+(defcfg
+  process-unmapped-keys yes
+  sequence-timeout 2000
+  sequence-input-mode visible-backspaced
+)
+
+(defsrc
+  caps
+  i j k l
+  u o
+  y n
+  h scln p
+  f d s w
+  a z x c v b
+  8 , m .
+  q r t
+  7 grv
+  f7
+)
+
+(defalias
+  up5   (macro up up up up up)
+  down5 (macro down down down down down)
+  wlft6 (macro C-left C-left C-left C-left C-left C-left)
+  wrgt6 (macro C-rght C-rght C-rght C-rght C-rght C-rght)
+  sela  C-a
+  undo  C-z
+  cut   C-x
+  copy  C-c
+  paste C-v
+  bold  C-b
+  cls   A-f4
+  selln (macro home S-down)
+  cap   (tap-hold 200 200 esc (layer-while-held capslock))
+)
+
+(deflayer base
+  @cap
+  i j k l
+  u o
+  y n
+  h scln p
+  f d s w
+  a z x c v b
+  8 , m .
+  q r t
+  7 grv
+  f7
+)
+
+(deflayer capslock
+  _
+  up left down rght
+  home end
+  pgup pgdn
+  del bspc ins
+  lctl lsft lalt lmet
+  @sela @undo @cut @copy @paste @bold
+  @up5 @down5 @wlft6 @wrgt6
+  esc f2 @selln
+  tab @cls
+  ret
+)
