@@ -206,11 +206,6 @@ Each edition has detailed docs:
 
 **Based on:** [Static Hands](https://github.com/almogtavor/static-hands) by Almog Tavor  
 
-MIT License
-
-Copyright (c) 2025 SoLab HQ  
-Copyright (c) 2021 Almog Tavor (original Static Hands)
-
 ---
 
 ☕ [Support on Ko-fi](https://ko-fi.com/solab) | 📺 [YouTube Channel](https://youtube.com/@solabhq)
