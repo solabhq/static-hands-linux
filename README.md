@@ -49,6 +49,14 @@ Then **log out and log back in** (or reboot).
 
 ---
 
+## 🖼️ Wallpaper Pack
+
+**Keep the keyboard layout always visible on your desktop!**
+
+[Download HD Wallpaper Pack](https://ko-fi.com/s/d626933c7d)
+
+---
+
 ## ⌨️ Available Commands
 
 ### Navigation Keys (Both Editions)
