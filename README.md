@@ -8,7 +8,7 @@ CapsLock navigation layer for Linux - Keep hands on home row. Available in Basic
 
 ## 📺 Video Tutorial
 
-[Watch: Complete Setup Guide](https://www.youtube.com/@solabhq) - Covers all platforms
+[Static Hands](https://www.youtube.com/@solabhq) - Covers all platforms
 
 ---
 
